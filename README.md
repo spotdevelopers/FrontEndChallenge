@@ -1,6 +1,6 @@
 [![N|Solid](https://s3.amazonaws.com/spot-resources/logospot.png?1)](https://spotcloud.io)
 
-Front End Challenge
+FRONT END CHALLENGE
 ====================
 
 This code challenge allows you to choose your own path and lets you flaunt your creative panache and technical skills along the way. Spend as little or as much time as you would like to complete your chosen path. Get as much completed as you can, with the focus on functionality over design.
