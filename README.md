@@ -1,3 +1,5 @@
+[![N|Solid](https://s3.amazonaws.com/spot-resources/logospot.png)](https://spotcloud.io)
+
 Front End Challenge
 ====================
 
