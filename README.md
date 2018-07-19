@@ -1,4 +1,4 @@
-[![N|Solid](https://s3.amazonaws.com/spot-resources/logospot.png)](https://spotcloud.io)
+[![N|Solid](https://s3.amazonaws.com/spot-resources/logospot.png?1)](https://spotcloud.io)
 
 Front End Challenge
 ====================
